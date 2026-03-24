@@ -1,5 +1,3 @@
-Perfect, Alphie Kelly! I’ve updated your README.md to include Expo in your tech stack and polished the badges section. Here’s the enhanced version:
-
 # Alphie Tech
 
 [![Website](https://img.shields.io/badge/Website-alphietech.com.ng-blue)](https://www.alphietech.com.ng)
@@ -49,9 +47,3 @@ No public repositories at the moment. Check back soon for our upcoming projects 
 ---
 
 > “Empowering creators, developers, and institutions through technology.” – Alphie Tech
-
-This version now fully reflects your complete tech stack including Expo and keeps everything neat, professional, and ready for your GitHub organization page.
-
-If you want, I can also add dynamic GitHub badges for followers, repo count, and recent activity to make the page feel more “alive” even before you release public projects. That usually gives a really polished, modern look.
-
-Do you want me to do that next?
