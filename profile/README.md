@@ -44,6 +44,7 @@ These are maintained by Alphie Tech and define the learning system, standards, a
 🎓 Responsive Frontend Engineering Masterclass
 Curriculum and structured learning system for frontend engineering.
 https://github.com/AlphieTech/responsive-frontend-engineering-masterclass
+
 🧱 Student Template Repository
 Standardized Git workflow template for assignments, submissions, and project structure.
 https://github.com/AlphieTech/template-student-repo
