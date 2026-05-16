@@ -33,10 +33,32 @@ At **Alphie Tech**, we aim to **empower creators, developers, and educational in
 
 ---
 
-## 📂 Repositories
+## 📂 Repository Ecosystem
 
-No public repositories at the moment. Check back soon for our upcoming projects and open-source tools.
+This organization operates a multi-layer development system consisting of:
 
+🏢 1. Organization Infrastructure Repositories
+
+These are maintained by Alphie Tech and define the learning system, standards, and tooling.
+
+🎓 Responsive Frontend Engineering Masterclass
+Curriculum and structured learning system for frontend engineering.
+https://github.com/AlphieTech/responsive-frontend-engineering-masterclass
+🧱 Student Template Repository
+Standardized Git workflow template for assignments, submissions, and project structure.
+https://github.com/AlphieTech/template-student-repo
+👩‍🎓 2. Student Repositories (External to Org)
+
+Students create and maintain their own public repositories as part of assignments, projects, and portfolio development.
+
+These repositories are:
+
+individually owned
+publicly visible
+evaluated through Git-based workflows
+🔒 3. Private & Production Systems
+
+This organization also maintains private repositories for client work, internal tools, and production systems not publicly disclosed.
 ---
 
 ## 📬 Connect with Us
