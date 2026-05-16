@@ -37,7 +37,7 @@ At **Alphie Tech**, we aim to **empower creators, developers, and educational in
 
 This organization operates a multi-layer development system consisting of:
 
-🏢 1. Organization Infrastructure Repositories
+#🏢 1. Organization Infrastructure Repositories
 
 These are maintained by Alphie Tech and define the learning system, standards, and tooling.
 
@@ -48,7 +48,8 @@ https://github.com/AlphieTech/responsive-frontend-engineering-masterclass
 🧱 Student Template Repository
 Standardized Git workflow template for assignments, submissions, and project structure.
 https://github.com/AlphieTech/template-student-repo
-👩‍🎓 2. Student Repositories (External to Org)
+
+#👩‍🎓 2. Student Repositories (External to Org)
 
 Students create and maintain their own public repositories as part of assignments, projects, and portfolio development.
 
